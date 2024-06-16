@@ -1,0 +1,11 @@
+# Folders
+/data/
+/logs/
+
+# Object files
+*.o
+*.d
+
+# Executable
+.exe
+program
